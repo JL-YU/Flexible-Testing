@@ -1,6 +1,8 @@
 Run sir_simulation_for_se.py to generate epidemic transmission process with/without testing-isolation policy
 Plot figures using simulation data.
 
+Daily viral load files are too big to upload, please generate using sir_simulation_for_se.py
+
 
 
 Viral kinetic parameters (used_pars_swab_1.csv) refers to:
